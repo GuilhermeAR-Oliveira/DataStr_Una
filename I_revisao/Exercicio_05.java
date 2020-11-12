@@ -5,7 +5,7 @@
  *   imprime a quantidade de pontos feito pelo usuário.
  */
 
-package revisao;
+package I_revisao;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@
  *  Programa: Lê um número inteiro e imprime a tabuada.
  */
 
-package revisao;
+package I_revisao;
 
 import java.util.Scanner;
 

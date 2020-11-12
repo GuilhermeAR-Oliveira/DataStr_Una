@@ -5,7 +5,7 @@
  *    Caso seja encontrado, o mesmo é retornado com a sua posição.  
  */
 
-package revisao;
+package I_revisao;
 
 import java.util.Scanner;
 

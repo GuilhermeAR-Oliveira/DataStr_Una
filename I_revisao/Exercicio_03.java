@@ -5,7 +5,7 @@
  *   acima e abaixo da media com suas respectivas posições.
  */
 
-package revisao;
+package I_revisao;
 
 import java.util.Scanner;
 

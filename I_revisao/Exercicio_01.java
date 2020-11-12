@@ -4,7 +4,7 @@
  *   inteiros existentes entre esses dois números.
  */
 
-package revisao;
+package I_revisao;
 
 import java.util.Scanner;
 
